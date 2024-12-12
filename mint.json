@@ -67,6 +67,7 @@
     {
       "group": "Regions",
       "pages": [
+        "regions/bodrum",
         "regions/yalikavak"
       ]
     }
