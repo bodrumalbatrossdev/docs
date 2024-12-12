@@ -30,6 +30,10 @@
     {
       "name": "Blog",
       "url": "blog"
+    },
+    {
+      "name": "Consulting",
+      "url": "consulting"
     }
   ],
   "anchors": [
