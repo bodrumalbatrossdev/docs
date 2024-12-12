@@ -73,6 +73,13 @@
         "regions/bodrum",
         "regions/yalikavak"
       ]
+    },
+     {
+      "group": "Albatross",
+      "pages": [
+        "albatross/profile",
+        "albatross/mission-vision"
+      ]
     }
   ],
   "footerSocials": {
