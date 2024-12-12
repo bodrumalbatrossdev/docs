@@ -38,6 +38,10 @@
     {
       "name": "Consulting",
       "url": "consulting"
+    },
+    {
+      "name": "Services",
+      "url": "services"
     }
   ],
   "anchors": [
