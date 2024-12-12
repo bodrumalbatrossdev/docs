@@ -23,7 +23,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Listings",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
@@ -68,14 +68,6 @@
       "group": "Regions",
       "pages": [
         "regions/yalikavak"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
