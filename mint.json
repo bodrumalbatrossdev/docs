@@ -41,6 +41,11 @@
       "name": "Bodrum Albatross",
       "icon": "book-open-cover",
       "url": "https://bodrumalbatross.com"
+    },
+     {
+      "name": "Welcomes",
+      "icon": "book-open-cover",
+      "url": "https://welcome.bodrumalbatross.com"
     }
   ],
   "navigation": [
