@@ -80,6 +80,12 @@
         "albatross/profile",
         "albatross/mission-vision"
       ]
+    },
+     {
+      "group": "Blog",
+      "pages": [
+        "blog/income-tax-law"  
+      ]
     }
   ],
   "footerSocials": {
