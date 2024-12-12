@@ -86,6 +86,14 @@
       "pages": [
         "blog/income-tax-law"  
       ]
+    },
+    {
+      "group": "Consulting",
+      "pages": [
+        "conulting/introduction",
+        "conulting/our-services",
+        "conulting/cooperation"
+      ]
     }
   ],
   "footerSocials": {
