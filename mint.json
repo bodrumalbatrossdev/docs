@@ -61,11 +61,11 @@
     {
       "group": "Contact",
       "pages": [
-        "contact/partner-agencies",
+        "contact/partner-agencies"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Regions",
       "pages": [
         "api-reference/introduction"
       ]
