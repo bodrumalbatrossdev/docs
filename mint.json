@@ -51,9 +51,14 @@
       "url": "https://bodrumalbatross.com"
     },
      {
-      "name": "Welcomes",
+      "name": "Welcome",
       "icon": "book-open-cover",
       "url": "https://welcome.bodrumalbatross.com"
+    },
+    {
+      "name": "Bodrum Albatross Airtable",
+      "icon": "book-open-cover",
+      "url": "https://properties.bodrumalbatross.com/m"
     }
   ],
   "navigation": [
