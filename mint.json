@@ -89,7 +89,10 @@
         "regions/konacik",
         "regions/ortakent-yahsi",
         "regions/torba",
-        "regions/akyarlar"
+        "regions/akyarlar",
+        "regions/turgutreis",
+        "regions/mumcular",
+        regions/yaliciftlik"
       ]
     },
      {
