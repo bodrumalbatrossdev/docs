@@ -107,7 +107,10 @@
      {
       "group": "Blog",
       "pages": [
-        "blog/income-tax-law"  
+        "blog/income-tax-law",
+        "blog/germanwings-bodrum-airport",
+        "/bodrumairport"
+        
       ]
     },
      {
