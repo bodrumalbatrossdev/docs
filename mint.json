@@ -147,6 +147,7 @@
      {
       "group": "Travel",
       "pages": [
+        "travel-assistant/bitez-travel-report",
         "travel-assistant/yalikavak-travel-report",
         "travel-assistant/turkbuku-travel-report",
         "travel-assistant/gumusluk-travel-report",
