@@ -48,6 +48,10 @@
       "url": "webpage"
     },
      {
+      "name": "Market Analysis",
+      "url": "market-analysis"
+    },
+     {
       "name": "Travel",
       "url": "travel-assistant"
     }
@@ -169,6 +173,12 @@
       "group": "Webpages",
       "pages": [
         "webpage/index"  
+      ]
+    },
+     {
+      "group": "Market Analysis",
+      "pages": [
+        "market-analysis/yalikavak-market-m-analysis"  
       ]
     },
     {
