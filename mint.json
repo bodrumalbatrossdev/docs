@@ -167,8 +167,7 @@
         "travel-assistant/mumcular-travel-report",
         "travel-assistant/yaliciftlik-travel-report",
         "travel-assistant/adabuku-travel-report",
-        "travel-assistant/milas-travel-report",
-        "travel-assistant/torba-market-analysis"
+        "travel-assistant/milas-travel-report"
       ]
     },
     {
@@ -187,7 +186,8 @@
         "market-analysis/gundogan-market-analysis",
         "market-analysis/gumbet-market-analysis",
         "market-analysis/konacik-market-analysis",
-        "market-analysis/muskebi-market-analysis"
+        "market-analysis/muskebi-market-analysis",
+        "market-analysis/torba-market-analysis"
         
       ]
     },
