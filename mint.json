@@ -167,7 +167,9 @@
         "travel-assistant/mumcular-travel-report",
         "travel-assistant/yaliciftlik-travel-report",
         "travel-assistant/adabuku-travel-report",
-        "travel-assistant/milas-travel-report"      ]
+        "travel-assistant/milas-travel-report",
+        "travel-assistant/torba-market-analysis"
+      ]
     },
     {
       "group": "Webpages",
