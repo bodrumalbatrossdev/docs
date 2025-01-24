@@ -48,10 +48,6 @@
       "url": "webpage"
     },
      {
-      "name": "Market Analysis",
-      "url": "market-analysis"
-    },
-     {
       "name": "Travel",
       "url": "travel-assistant"
     }
@@ -119,13 +115,6 @@
      {
       "group": "Blog",
       "pages": [
-         "blog/2025-bodrum-trends-real-estate",
-         "blog/air-serbia-and-turkish-airlines-to",
-         "blog/bengali-film-star-wedding-bodrum-2024",
-         "blog/bodrum-tong-term-property-rentals",
-         "blog/turkey-orthopedic-care",
-         "blog/mandarin-orientaland-mayo-clinic",
-         "blog/real-estate-invesment-turkey-rising-star",
          "blog/oku-hotel-bodrum-turkey-2025",
          "blog/turkish-real-estate-market-analysis",
          "blog/most-expensive-houses-bodrum",
@@ -174,30 +163,14 @@
         "travel-assistant/yaliciftlik-travel-report",
         "travel-assistant/adabuku-travel-report",
         "travel-assistant/milas-travel-report",
-        "travel-assistant/dalaman-turkey-family-holidays"
+        "travel-assistant/bogazici-travel-report",
+        "turkey-complete-month-by-month-travel-guide"
       ]
     },
     {
       "group": "Webpages",
       "pages": [
         "webpage/index"  
-      ]
-    },
-     {
-      "group": "Market Analysis",
-      "pages": [
-        "market-analysis/yalikavak-market-analysis",
-        "market-analysis/bitez-market-analysis",
-        "market-analysis/turkbuku-market-analysis",
-        "market-analysis/gumusluk-market-analysis",
-        "market-analysis/gundogan-market-analysis",
-        "market-analysis/gumbet-market-analysis",
-        "market-analysis/konacik-market-analysis",
-        "market-analysis/muskebi-market-analysis",
-        "market-analysis/torba-market-analysis",
-        "market-analysis/akyarlar-market-analysis",
-        "market-analysis/turgutreis-market-analysis"
-        
       ]
     },
     {
